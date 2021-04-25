@@ -8,3 +8,11 @@
 
 **Link to work:** [Puppet Activity](https://github.com/cyberpau/puppet-control)
 
+### Day 2: April 25, 2021
+
+**Today's Progress**: Day 2 of #100DaysOfCode - I finished another LinkedIn Course "Learning Docker" by Arthur Ulfeldt. I also started coding a small Java program for file search using Visual Studio Code instead of my usual Eclipse IDE. 
+
+**Thoughts:** I have not coded Java for a long time, so it took me some time getting back to shape. I used VS Code instead of Eclipse IDE in order to standardized my tools. It also took a while to learn the Java Extension Pack and it's usage like generating getter/setter etc.
+
+**Link to work:** [JText](https://github.com/cyberpau/jtext)
+
