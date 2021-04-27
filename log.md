@@ -14,5 +14,13 @@
 
 **Thoughts:** I have not coded Java for a long time, so it took me some time getting back to shape. I used VS Code instead of Eclipse IDE in order to standardized my tools. It also took a while to learn the Java Extension Pack and it's usage like generating getter/setter etc.
 
-**Link to work:** [JText](https://github.com/cyberpau/jtext)
+**Link to work:** [SearchRaptor](https://github.com/cyberpau/search-raptor)
+
+### Day 3: April 26, 2021
+
+**Today's Progress**: Day 3 of #100DaysOfCode - continued my simple Java file search project and renamed it to "search-raptor". Also attended Ministry of Testing PH meetup about Exploratory Testing.
+
+**Thoughts:** Encountered some file exceptions error and it took me some time to figure it out that it is as designed - empty directories get permission error when trying to read unlike files. 
+
+**Link to work:** [SearchRaptor](https://github.com/cyberpau/search-raptor)
 
